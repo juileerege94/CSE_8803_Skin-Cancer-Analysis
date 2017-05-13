@@ -1,4 +1,5 @@
 READ ME
+Aim of the project is to differentiate between benign and malignant images in the dataset and teach the network to classify correctly. 
 
 We have 7 code files which perform different functionalities.
 
